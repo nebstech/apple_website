@@ -71,6 +71,8 @@ const HowItWorks = () => {
                       best graphic performance by far
                     </span>.
                   </p>
+                  <div className='bg-neutral-700 my-5 h-[1px] w-full'/>
+                  
 
 
                   <p className="hiw-text g_fadeIn">
