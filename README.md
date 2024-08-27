@@ -1,8 +1,60 @@
-# React + Vite
+# **Apple iPhone 15 Page Clone**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of Apple's iPhone 15 product page. It is built using React, Three.js, and GSAP to create a dynamic and visually engaging user experience. The project is styled using Tailwind CSS.
 
-Currently, two official plugins are available:
+## **Table of Contents**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+
+## **Demo**
+
+
+You can check out the live demo [here](#).
+
+## **Features**
+
+- Interactive animations using GSAP.
+- 3D models rendered with Three.js.
+- Responsive design with Tailwind CSS.
+- Smooth transitions and parallax effects.
+
+
+## **Technologies Used**
+
+- **React**: A JavaScript library for building user interfaces.
+- **Three.js**: A 3D library that makes WebGL simpler.
+- **GSAP**: A robust JavaScript library for creating high-performance animations.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+
+## **Installation**
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nebstech/apple_website.git 
+   ```
+2. Navigate to the project directory:
+```bash
+   cd apple_website
+```
+3. Install the dependencies:
+```bash
+   npm install
+  ```
+
+
+
+## **Acknowledgments**
+
+- Apple for the original design inspiration.
+- The creators of React, Three.js, GSAP, and Tailwind CSS.
